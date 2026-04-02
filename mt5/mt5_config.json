@@ -1,8 +1,8 @@
 {
-  "login": 52802045,
-  "password": "sG0we5u6&lFZg9",
-  "server": "ICMarketsSC-Demo",
-  "terminal_path": "C:\\Program Files\\MetaTrader 5 IC Markets Global\\terminal64.exe",
+  "login": 528#####45,
+  "password": "sGasknlkasndag9",
+  "server": "Broker name server",
+  "terminal_path": "C:\\Program Files\\MetaTrader \\terminal64.exe",
   "signals_root": "../",
   "trade_enabled": true,
 

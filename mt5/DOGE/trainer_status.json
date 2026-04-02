@@ -1,0 +1,20 @@
+{
+  "coin": "DOGE",
+  "state": "FINISHED",
+  "timestamp": 1775121448,
+  "patterns_saved": 3299,
+  "total_patterns": 3299,
+  "lookback_days": 90,
+  "timeframe": "1hour",
+  "per_timeframe": {
+    "1hour": {
+      "patterns": 3299,
+      "new_this_run": 264,
+      "updated": 1873,
+      "quality_skipped": 0,
+      "candles_used": 2151,
+      "lookback_days": 90,
+      "trained_at": 1775121448
+    }
+  }
+}

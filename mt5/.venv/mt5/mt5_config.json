@@ -1,0 +1,65 @@
+{
+  "login": 52802045,
+  "password": "sG0we5u6&lFZg9",
+  "server": "ICMarketsSC-Demo",
+  "terminal_path": "C:\\Program Files\\MetaTrader 5 IC Markets Global\\terminal64.exe",
+  "signals_root": "../",
+  "trade_enabled": false,
+  "poll_seconds": 10,
+  "deviation_points": 20,
+  "open_threshold": 3,
+  "close_threshold": 2,
+  "trade_start_level": 5,
+  "dca_multiplier": 1.2,
+  "max_dca_buys_per_24h": 1,
+  "max_dca_per_trade": 3,
+  "pm_start_pct_no_dca": 3.0,
+  "pm_start_pct_with_dca": 1.5,
+  "trailing_gap_pct": 0.35,
+  "per_coin_stop_loss_pct": -25.0,
+  "max_scale_ins": 5,
+  "close_on_opposite_signal": true,
+  "use_profit_margin_tp": true,
+  "symbols": [
+    {
+      "bot_symbol": "BTC",
+      "mt5_symbol": "BTCUSD",
+      "lot": 0.003,
+      "magic": 880001,
+      "enable_long": true,
+      "enable_short": true
+    },
+    {
+      "bot_symbol": "ETH",
+      "mt5_symbol": "ETHUSD",
+      "lot": 0.025,
+      "magic": 880002,
+      "enable_long": true,
+      "enable_short": true
+    },
+    {
+      "bot_symbol": "XRP",
+      "mt5_symbol": "XRPUSD",
+      "lot": 5.0,
+      "magic": 880003,
+      "enable_long": true,
+      "enable_short": true
+    },
+    {
+      "bot_symbol": "DOGE",
+      "mt5_symbol": "DOGUSD",
+      "lot": 20.0,
+      "magic": 880004,
+      "enable_long": true,
+      "enable_short": true
+    },
+    {
+      "bot_symbol": "BNB",
+      "mt5_symbol": "BNBUSD",
+      "lot": 0.25,
+      "magic": 880005,
+      "enable_long": true,
+      "enable_short": true
+    }
+  ]
+}

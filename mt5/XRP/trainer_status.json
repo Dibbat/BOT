@@ -1,0 +1,20 @@
+{
+  "coin": "XRP",
+  "state": "FINISHED",
+  "timestamp": 1775121448,
+  "patterns_saved": 3029,
+  "total_patterns": 3029,
+  "lookback_days": 90,
+  "timeframe": "1hour",
+  "per_timeframe": {
+    "1hour": {
+      "patterns": 3029,
+      "new_this_run": 220,
+      "updated": 1913,
+      "quality_skipped": 2,
+      "candles_used": 2149,
+      "lookback_days": 90,
+      "trained_at": 1775121448
+    }
+  }
+}

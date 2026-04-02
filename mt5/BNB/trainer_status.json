@@ -1,0 +1,20 @@
+{
+  "coin": "BNB",
+  "state": "FINISHED",
+  "timestamp": 1775121448,
+  "patterns_saved": 2910,
+  "total_patterns": 2910,
+  "lookback_days": 90,
+  "timeframe": "1hour",
+  "per_timeframe": {
+    "1hour": {
+      "patterns": 2910,
+      "new_this_run": 125,
+      "updated": 1985,
+      "quality_skipped": 27,
+      "candles_used": 2151,
+      "lookback_days": 90,
+      "trained_at": 1775121448
+    }
+  }
+}

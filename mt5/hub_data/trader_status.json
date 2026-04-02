@@ -1,0 +1,17 @@
+{
+  "timestamp": 1775127843,
+  "account": {
+    "total_account_value": 1041.44,
+    "holdings_sell_value": 0.0,
+    "buying_power": 1041.44,
+    "percent_in_trade": 0.0,
+    "total_positions": 0,
+    "balance": 1041.44,
+    "equity": 1041.44,
+    "margin": 0.0,
+    "margin_free": 1041.44,
+    "profit": 0.0,
+    "portfolio_risk_pct": 0.0
+  },
+  "positions": {}
+}

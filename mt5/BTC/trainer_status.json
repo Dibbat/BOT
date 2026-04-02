@@ -1,0 +1,20 @@
+{
+  "coin": "BTC",
+  "state": "FINISHED",
+  "timestamp": 1774950009,
+  "patterns_saved": 1418,
+  "total_patterns": 1418,
+  "lookback_days": 60,
+  "timeframe": "1hour",
+  "per_timeframe": {
+    "1hour": {
+      "patterns": 1418,
+      "new_this_run": 1418,
+      "updated": 0,
+      "quality_skipped": 0,
+      "candles_used": 1432,
+      "lookback_days": 60,
+      "trained_at": 1774950009
+    }
+  }
+}

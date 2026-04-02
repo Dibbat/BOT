@@ -1,0 +1,4 @@
+"profile","threshold","start_level","leverage","total_pnl","worst_dd_pct","closed_events","est_profit_200","decision"
+"A_balanced_plus","0.95","4","0.22","-33.5724","1.09","22","-0.1343","NO-GO (negative total pnl)"
+"B_growth","0.9","4","0.25","-74.8738","0.98","17","-0.2995","NO-GO (negative total pnl)"
+"C_aggressive","0.85","3","0.3","-47.3243","1.07","20","-0.1893","NO-GO (negative total pnl)"

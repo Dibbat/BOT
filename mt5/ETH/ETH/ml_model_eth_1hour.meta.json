@@ -1,0 +1,33 @@
+{
+  "trained_at": 1774731076,
+  "samples": 2330,
+  "n_classes": 1,
+  "classes": [
+    1
+  ],
+  "cv_accuracy": null,
+  "n_estimators": 300,
+  "max_depth": 4,
+  "feature_names": [
+    "pct_00",
+    "pct_01",
+    "pct_02",
+    "pct_03",
+    "pct_04",
+    "pct_05",
+    "pct_06",
+    "pct_07",
+    "pct_08",
+    "pct_09",
+    "pct_10",
+    "pct_11",
+    "mean",
+    "std",
+    "momentum",
+    "skew",
+    "rsi_norm",
+    "atr_norm",
+    "trend",
+    "reversal"
+  ]
+}
